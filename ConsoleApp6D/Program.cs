@@ -1,5 +1,4 @@
 ﻿using ConsoleApp6HW;
-using ConsoleApp6D.Tests;
 public class Employee
 {
     private List<float> grades = new List<float>();
